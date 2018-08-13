@@ -4,6 +4,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### August 13, 2018 
+- [Create a React App from scratch Using Parceljs – codeburst](https://codeburst.io/create-a-react-app-with-no-config-using-parceljs-56c15add6a0a) 
 ### August 11, 2018 
 - [Introducing Electron Fiddle – Felix Rieseberg – Medium](https://medium.com/@felixrieseberg/introducing-electron-fiddle-1de2be1ba6e7) 
 ### August 8, 2018 
