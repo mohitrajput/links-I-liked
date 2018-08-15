@@ -5,6 +5,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### August 15, 2018 
+- [Mourning as a Developer – Sarah Drasner – Medium](https://medium.com/@sarah_edo/mourning-as-a-developer-8adf9969f531) 
 ### August 13, 2018 
 - [Create a React App from scratch Using Parceljs – codeburst](https://codeburst.io/create-a-react-app-with-no-config-using-parceljs-56c15add6a0a) 
 ### August 11, 2018 
