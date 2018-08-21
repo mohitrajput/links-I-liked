@@ -6,6 +6,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### August 21, 2018 
+- [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5) 
 ### August 15, 2018 
 - [Mourning as a Developer – Sarah Drasner – Medium](https://medium.com/@sarah_edo/mourning-as-a-developer-8adf9969f531) 
 ### August 13, 2018 
