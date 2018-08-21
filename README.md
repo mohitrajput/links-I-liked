@@ -11,6 +11,7 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5) 
 - [Checkbox vs Toggle Switch – UX Planet](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8) 
 - [PHP in 2018 by the Creator of PHP - YouTube](https://www.youtube.com/watch?v=rKXFgWP-2xQ) 
+- [Even More CSS Secrets - YouTube](https://www.youtube.com/watch?v=vs34f9FiHps) 
 ### August 15, 2018 
 - [Mourning as a Developer – Sarah Drasner – Medium](https://medium.com/@sarah_edo/mourning-as-a-developer-8adf9969f531) 
 ### August 13, 2018 
