@@ -10,6 +10,7 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 ### August 23, 2018 
 - [I learned to code, build a web app and launch it on Product Hunt in 2 months](https://medium.com/@AndreyAzimov/i-learned-to-code-and-build-a-web-app-in-2-months-da8f2932c139) 
+- [I'm Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/) 
 ### August 21, 2018 
 - [Time-saving CSS techniques to create responsive images](https://medium.freecodecamp.org/time-saving-css-techniques-to-create-responsive-images-ebb1e84f90d5) 
 - [Checkbox vs Toggle Switch – UX Planet](https://uxplanet.org/checkbox-vs-toggle-switch-7fc6e83f10b8) 
