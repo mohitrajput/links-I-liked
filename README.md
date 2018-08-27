@@ -8,6 +8,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### August 27, 2018 
+- [Randy Pausch Last Lecture: Achieving Your Childhood Dreams - YouTube](https://www.youtube.com/watch?v=ji5_MqicxSo) 
 ### August 23, 2018 
 - [I learned to code, build a web app and launch it on Product Hunt in 2 months](https://medium.com/@AndreyAzimov/i-learned-to-code-and-build-a-web-app-in-2-months-da8f2932c139) 
 - [I'm Launching 12 Startups in 12 Months](https://levels.io/12-startups-12-months/) 
