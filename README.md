@@ -9,6 +9,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### September 12, 2018 
+- [This in JavaScript | Zell Liew](https://zellwk.com/blog/this/?ck_subscriber_id=251764868) 
 ### August 27, 2018 
 - [Randy Pausch Last Lecture: Achieving Your Childhood Dreams - YouTube](https://www.youtube.com/watch?v=ji5_MqicxSo) 
 ### August 23, 2018 
