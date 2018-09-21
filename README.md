@@ -10,6 +10,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### September 21, 2018 
+- [Who are your developers and how to (re)engage them - DevRel.net DevRel.net](https://devrel.net/community/who-are-your-developers-and-how-to-reengage-them) 
 ### September 12, 2018 
 - [This in JavaScript | Zell Liew](https://zellwk.com/blog/this/?ck_subscriber_id=251764868) 
 ### August 27, 2018 
