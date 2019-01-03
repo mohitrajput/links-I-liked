@@ -15,6 +15,7 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 ### January 3, 2019 
 - [Using DevTools to understand modern layout techniques](https://www.chenhuijing.com/blog/devtools-for-understanding-modern-layout-techniques/#%F0%9F%8F%80) 
 - [Will PWAs Replace Native Mobile Apps? — Smashing Magazine](https://www.smashingmagazine.com/2018/12/pwa-native-mobile-apps/#top) 
+- [Common CSS Issues For Front-End Projects — Smashing Magazine](https://www.smashingmagazine.com/2018/12/common-css-issues-front-end-projects/) 
 ### September 21, 2018 
 - [Who are your developers and how to (re)engage them - DevRel.net DevRel.net](https://devrel.net/community/who-are-your-developers-and-how-to-reengage-them) 
 ### September 12, 2018 
