@@ -12,6 +12,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### January 8, 2019 
+- [How to Beat Mid-Career Malaise](https://hbr.org/2018/08/how-to-beat-mid-career-malaise?utm_source=hs_email&utm_medium=email&utm_content=68540740&_hsenc=p2ANqtz-_3ipMU-SY0ZC5qnKcuvyqQ95IRa9YmtxPH44nrT4a1Kfflf3BF4NQnGRWibNZuZOW52fUKAgnxR2aamRYt8q5dYyrY8Q&_hsmi=68540741) 
 ### January 3, 2019 
 - [Using DevTools to understand modern layout techniques](https://www.chenhuijing.com/blog/devtools-for-understanding-modern-layout-techniques/#%F0%9F%8F%80) 
 - [Will PWAs Replace Native Mobile Apps? — Smashing Magazine](https://www.smashingmagazine.com/2018/12/pwa-native-mobile-apps/#top) 
