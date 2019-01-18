@@ -13,6 +13,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### January 18, 2019 
+- [What Can We Learn With JavaScript Fatigue - YouTube](https://www.youtube.com/watch?v=kZkeMvg6DfY) 
 ### January 8, 2019 
 - [How to Beat Mid-Career Malaise](https://hbr.org/2018/08/how-to-beat-mid-career-malaise?utm_source=hs_email&utm_medium=email&utm_content=68540740&_hsenc=p2ANqtz-_3ipMU-SY0ZC5qnKcuvyqQ95IRa9YmtxPH44nrT4a1Kfflf3BF4NQnGRWibNZuZOW52fUKAgnxR2aamRYt8q5dYyrY8Q&_hsmi=68540741) 
 ### January 3, 2019 
