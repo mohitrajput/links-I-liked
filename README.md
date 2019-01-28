@@ -14,6 +14,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### January 28, 2019 
+- [How to learn new things effectively and enjoy doing it](https://medium.freecodecamp.org/how-to-learn-new-things-effectively-and-enjoy-doing-it-54c116c1a236) 
 ### January 18, 2019 
 - [What Can We Learn With JavaScript Fatigue - YouTube](https://www.youtube.com/watch?v=kZkeMvg6DfY) 
 ### January 8, 2019 
