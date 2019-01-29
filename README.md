@@ -15,6 +15,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### January 29, 2019 
+- [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda) 
 ### January 28, 2019 
 - [How to learn new things effectively and enjoy doing it](https://medium.freecodecamp.org/how-to-learn-new-things-effectively-and-enjoy-doing-it-54c116c1a236) 
 ### January 18, 2019 
