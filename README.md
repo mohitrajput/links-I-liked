@@ -16,6 +16,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### January 31, 2019 
+- [The Mindset Shift: How to become a good new manager](https://medium.com/know-your-team-blog/the-mindset-shift-how-to-become-a-good-new-manager-3872371db8fd) 
 ### January 29, 2019 
 - [Before you can master design, you must first master the fundamentals](https://medium.freecodecamp.org/before-you-can-master-design-you-must-first-master-the-fundamentals-1981a2af1fda) 
 ### January 28, 2019 
