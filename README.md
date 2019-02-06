@@ -17,6 +17,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### February 6, 2019 
+- [The mathematics of weight loss | Ruben Meerman | TEDxQUT (edited version) - YouTube](https://www.youtube.com/watch?v=vuIlsN32WaE) 
 ### January 31, 2019 
 - [The Mindset Shift: How to become a good new manager](https://medium.com/know-your-team-blog/the-mindset-shift-how-to-become-a-good-new-manager-3872371db8fd) 
 ### January 29, 2019 
