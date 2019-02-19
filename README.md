@@ -18,6 +18,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### February 19, 2019 
+- [How @supports Works | CSS-Tricks](https://css-tricks.com/how-supports-works/) 
 ### February 6, 2019 
 - [The mathematics of weight loss | Ruben Meerman | TEDxQUT (edited version) - YouTube](https://www.youtube.com/watch?v=vuIlsN32WaE) 
 ### January 31, 2019 
