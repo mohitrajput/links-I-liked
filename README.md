@@ -19,6 +19,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### February 27, 2019 
+- [JavaScript Prototypal Inheritance - YouTube](https://www.youtube.com/watch?v=qMO-LTOrJaE&list=LLXqQVyQSK6ztlUQxqU5FZ0A&index=2&t=0s) 
 ### February 19, 2019 
 - [How @supports Works | CSS-Tricks](https://css-tricks.com/how-supports-works/) 
 ### February 6, 2019 
