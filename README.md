@@ -20,6 +20,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### March 12, 2019 
+- [Git hacks you should know about - DEV Community 👩‍💻👨‍💻](https://dev.to/teamxenox/git-hacks-you-should-know-about-16pk?utm_source=Newsletter+Subscribers&utm_campaign=bffcdce188-EMAIL_CAMPAIGN_2019_03_11_07_39&utm_medium=email&utm_term=0_d8f11d5d1e-bffcdce188-154529997?newly-registered-user=true?returning-user=true) 
 ### February 27, 2019 
 - [JavaScript Prototypal Inheritance - YouTube](https://www.youtube.com/watch?v=qMO-LTOrJaE&list=LLXqQVyQSK6ztlUQxqU5FZ0A&index=2&t=0s) 
 ### February 19, 2019 
