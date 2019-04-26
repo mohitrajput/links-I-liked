@@ -22,6 +22,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### April 26, 2019 
+- [HTTP headers for the responsible developer - Twilio](https://www.twilio.com/blog/a-http-headers-for-the-responsible-developer) 
 ### March 25, 2019 
 - [Projekt Based Learning - YouTube](https://www.youtube.com/watch?v=geeoy3BMmE0) 
 ### March 12, 2019 
