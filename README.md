@@ -24,6 +24,9 @@ Blogs, articles and other links I liked on web today using chrome extension: htt
 
 
 
+
+### May 31, 2020 
+- [When frontend means full stack – Increment: Frontend](https://increment.com/frontend/when-frontend-means-full-stack/) 
 ### June 4, 2019 
 - [Sticky Footer, Five Ways | CSS-Tricks](https://css-tricks.com/couple-takes-sticky-footer/) 
 ### April 26, 2019 
